@@ -60,6 +60,6 @@
 
 ### 🌟 Thanks for stopping by! Drop a ⭐ if you like what you see.
 
-*Part of the [Hack-R Academy](https://github.com/) community — where learners become builders.*
+*Part of the [Hack-R Academy](https://(https://www.linkedin.com/company/hackracademy/)) community — where learners become builders.*
 
 </div>
